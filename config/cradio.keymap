@@ -173,7 +173,7 @@
         &kp Q        &kp W       &kp E  &kp R     &kp T           &kp Y       &kp U       &kp I      &kp O         &kp P
         &kp A        &kp S       &kp D  &kp F     &kp G           &kp H       &kp J       &kp K      &kp L         &lt L2 SEMI
         &hm LCTRL Z  &hm LCMD X  &kp C  &kp V     &kp B           &kp N       &kp M       &kp COMMA  &hm LCMD DOT  &hm LCTRL SLASH
-                                        &kp BSPC  &kp LSHFT       &lht L1 L1  &kp SPACE
+                                        &kp BSPC  &kp LSHFT       &kp SPACE   &lht L1 L1
       >;
     };
 
@@ -182,7 +182,7 @@
         &td_excl        &kp AT          &kp DOLLAR       &td_astrk  &td_bkt            &kp N0     &kp N1       &kp N2        &kp N3       &td_dot
         &hm LCTRL AMPS  &hm LCMD UNDER  &hm LSHFT MINUS  &td_qt     &td_par            &kp PLUS   &hm RALT N4  &hm RSHFT N5  &hm RCMD N6  &hm RCTRL SEMI
         &kp PIPE        &kp PRCNT       &kp CARET        &td_grave  &td_brc            &kp EQUAL  &kp N7       &kp N8        &kp N9       &td_slash
-                                                         &kp BSPC   &kp LSHFT          &to L0     &kp SPACE
+                                                         &kp BSPC   &kp LSHFT          &kp SPACE  &to L0
       >;
     };
 
@@ -191,7 +191,7 @@
         &kp C_MUTE  &kp C_PREV  &kp C_NEXT  &kp C_PLAY  &none            &none         &none         &kp UP        &none         &none
         &kp LCTRL   &kp LCMD    &kp LSHFT   &kp LALT    &none            &none         &kp LEFT      &kp DOWN      &kp RIGHT     &none
         &none       &kp LG(X)   &kp LG(C)   &kp LG(V)   &none            &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4
-                                            &kp BSPC    &to L0           &to L0        &kp SPACE
+                                            &kp BSPC    &kp LSHFT        &kp SPACE     &to L0
       >;
     };
   };
